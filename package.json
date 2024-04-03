@@ -15,7 +15,7 @@
     "url": "https://github.com/mongodb-js/connect-mongodb-session.git"
   },
   "dependencies": {
-    "archetype": "git+https://github.com/parulagrawal27/archetype#004689240a810080793de2df71ae802912228886",
+    "archetype": "git+https://github.com/parulagrawal27/archetype#4265fc4bdffd49a97ccc8c2fe022d2469ac21a0f",
     "mongodb": "5.x"
   },
   "devDependencies": {
