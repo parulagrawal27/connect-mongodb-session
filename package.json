@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "archetype": "git+https://github.com/parulagrawal27/archetype#4265fc4bdffd49a97ccc8c2fe022d2469ac21a0f",
-    "mongodb": "5.x"
+    "mongodb": "4.x"
   },
   "devDependencies": {
     "acquit": "1.0.5",
